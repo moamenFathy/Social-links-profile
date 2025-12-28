@@ -61,7 +61,7 @@ body {
   margin-block: 15px;
 }
 
-.container section .info h3 {
+.container section .info h4 {
   text-align: center;
   color: var(--primary);
 }
